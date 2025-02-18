@@ -36,6 +36,7 @@ framework: 3:30
 assess 7:00
 protege effect 1:38
 guild 3:27
+learning sprint
 homework
 end 
 """
